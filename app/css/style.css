@@ -1,6 +1,6 @@
 body {
 	font-family: 'Roboto', sans-serif;
-	background: #D7FFCF;
+	background: linear-gradient(#F1E3F3, #C2BBF0, #8FB8ED);
 }
 
 .site {
@@ -39,6 +39,8 @@ footer {
 }
 
 .btn {
+    background-color: #62BFED;
+    border: 5px outset #3590F3;
 	margin: 30px;
 }
 
@@ -47,7 +49,7 @@ form {
 }
 
 a {
-	color: #5cb85c;
+	color: #62BFED;
 	font-size: 20px;
 }
 
