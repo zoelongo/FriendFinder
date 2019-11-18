@@ -44,6 +44,10 @@ footer {
 	margin: 30px;
 }
 
+.btn:hover {
+    background-color: #3590F3;
+}
+
 form {
 	margin-top: 40px;
 }
