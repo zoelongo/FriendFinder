@@ -29,15 +29,6 @@ p {
 	font-size: 1.2em;
 }
 
-footer {
-	text-align: right;
-	background: #fff;
-	padding: 30px;
-	-webkit-box-shadow: 0px 0px 8px 0px rgba(0,0,0,0.2);
-	-moz-box-shadow: 0px 0px 8px 0px rgba(0,0,0,0.2);
-	box-shadow: 0px 0px 8px 0px rgba(0,0,0,0.2);
-}
-
 .btn {
     background-color: #62BFED;
     border: 5px outset #3590F3;
